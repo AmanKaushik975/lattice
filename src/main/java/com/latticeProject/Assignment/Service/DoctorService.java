@@ -1,9 +1,8 @@
 package com.latticeProject.Assignment.Service;
 
-import com.latticeProject.Assignment.Entity.Doctor;
+import com.latticeProject.Assignment.Models.Doctor;
 import com.latticeProject.Assignment.Repo.DoctorRepo;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
 
 import java.util.Optional;

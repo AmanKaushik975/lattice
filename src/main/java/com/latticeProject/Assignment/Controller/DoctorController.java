@@ -1,6 +1,6 @@
 package com.latticeProject.Assignment.Controller;
 
-import com.latticeProject.Assignment.Entity.Doctor;
+import com.latticeProject.Assignment.Models.Doctor;
 import com.latticeProject.Assignment.Service.DoctorService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
